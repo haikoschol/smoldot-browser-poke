@@ -1,1 +1,1 @@
-cargo run -- ../litep2p-perf/peer_address.txt
+cargo run -- ../webrtc-poc/peer_address.txt
